@@ -1,0 +1,15 @@
+* { padding: 0; margin: 0; }
+body {
+    background-image: url("./magic-mushroom.jpg");
+    background-size: cover;
+    height: 100vh;
+}
+.form-container {
+    width: 50%;
+}
+.welcome-banner {
+    background-color: white;
+    background-size: cover;
+    width: 50%;
+    height: 100vh;
+}
